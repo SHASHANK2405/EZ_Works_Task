@@ -12,10 +12,10 @@ const HomePage = () => {
             src={ez_work_logo}
             className="w-[222px] h-[62px] lg:w-[517px] lg:h-[147px]"
           />
-          <h2 className="text-[32px] md:text-5xl text-[#112949] lg:mt-[40px] my-[20px] mx-[55px] lg:m-[0] text-center lg:text-left">
+          <h2 className="text-[32px] md:text-5xl text-darkblue lg:mt-[40px] my-[20px] mx-[55px] lg:m-[0] text-center lg:text-left">
             A Suite Of Business Support Services
           </h2>
-          <p className="text-[#112949] max-w-[760px] lg:text-left lg:text-[2rem] text-center text-2xl  lg:mt-[73px] leading-[38px] px-[20px] lg:px-0">
+          <p className="text-darkblue max-w-[760px] lg:text-left lg:text-[2rem] text-center text-2xl  lg:mt-[73px] leading-[38px] px-[20px] lg:px-0">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
           </p>
         </div>
